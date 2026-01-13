@@ -54,7 +54,7 @@ Ghi chú:
 | Chủ đề | Giáo trình |
 | --- | --- |
 | Nho học (Khổng học) | [Nho giáo - Trần Trọng Kim](https://tve-4u.org/threads/nho-giao-quyen-thuong-quyen-ha-tran-trong-kim.29186/) (Nhẹ nhàng hơn thì đọc Luận Ngữ, chọn bản của Nguyễn Hiến Lê nhé) |
-| Đạo học (Lão – Trang) | *Lão Tử – Đạo Đức Kinh* – Thu Giang Nguyễn Duy Cần + Lão tử tinh hoa (Cùng tác giả). Bạn có thể đọc các bản dịch của những học giả khác để đối chiếu hoặc tương tự. Ví dụ như: [ĐẠO ĐỨC KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/DaoDucKinh/DaoDucKinh.htm) và đọc cả Nam Hoa Kinh |
+| Đạo học (Lão – Trang) | *Lão Tử – Đạo Đức Kinh* – Thu Giang Nguyễn Duy Cần + Lão tử tinh hoa (Cùng tác giả). Bạn có thể đọc các bản dịch của những học giả khác để đối chiếu hoặc tương tự. Ví dụ như: [ĐẠO ĐỨC KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/DaoDucKinh/DaoDucKinh.htm) cũng như đọc cuốn *Nam Hoa Kinh* -- Nguyễn Hiến Lê + *Trang Tử tinh hoa* -- Giản Chi (Hoặc đọc hai cuốn cùng tên của Thu Giang - Nguyễn Duy Cần hoặc bản dịch [NAM HOA KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/NamHoaKinh.htm) |
 | Kinh Dịch | *Kinh Dịch – Đạo của người quân tử* – Nguyễn Hiến Lê (Còn có các bản dịch khác của Phan Bội Châu hay Ngô Tất Tố nhưng mình cảm giác nó khá chuyên sâu, nên đã chọn bản dịch của Nguyễn Hiến Lê đọc sẽ dễ thở hơn) |
 
 ## Phật học (liên Á)
