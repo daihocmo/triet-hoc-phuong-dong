@@ -1,8 +1,6 @@
 # Triết học phương Đông
 
-Tập trung chủ yếu vào: Đạo học (Phái Lão Trang), Phật học và Dịch học.
-
-Dài quá không đọc (TL;DR): Đọc các cuốn sách sau theo thứ tự: Nhập môn Triết học Đông Phương (NDC) + Lão Tử Đạo Đức Kinh + Trang Tử Nam Hoa Kinh + Kinh dịch Đạo của người quân tử (Về cơ bản là vậy, đồng thời tự tìm một quyển về Đạo Phật bất kì, mình vẫn chưa tìm được cuốn nào ưng ý hơn cuốn *Đường xưa mây trắng của Thích Nhất Hạnh*).
+Một chương trình tự học Triết học phương Đông.
 
 Cần lưu ý một chút, chương trình này được tạo ra cho những ai muốn tìm lấy một con đường xử thế, chứ không phải là làm nghiên cứu hay tương tự nên có thể chương trình chưa đủ *độ sâu*, đồng thời cũng được viết bởi một người không chuyên (chính là mình). Vậy nên, rất mong nhận được đóng góp của mọi người.
 
@@ -24,46 +22,66 @@ Rốt cuộc là tại sao? Mình cảm thấy lớp nghĩa gốc bằng chữ H
 
 # Chương trình học
 
+*Lưu ý: Bạn nên coi đây là một danh sách các cuốn sách bạn có thể đọc về các chủ đề này hơn là một chương trình đào tạo chuyên ngành. Nếu bạn thích học về chủ đề gì thì có thể đọc sách được gợi ý ở bên cạnh.*
+
+Đồng thời, mình sẽ viết chương trình học Hán văn cổ cũng như chữ Phạn vào một dịp khác (Chắc là khá xa đấy tại mình vẫn còn đang học =)))).
+
 ## Nhập môn
 
-### Khởi điểm
-
 | Chủ đề | Lý do học | Sách/Giáo trình gợi ý |
 | --- | --- | --- |
-| Triết học Đông phương là gì? | Nếu không học phần này, bạn sẽ dùng **não Descartes** để đọc **Lão Tử** | Nhập môn Triết học Đông Phương - Thu Giang Nguyễn Duy Cần |
+| Triết học Đông phương là gì? | Nếu không học phần này, bạn sẽ dùng **não Plato** để đọc **Lão Tử** (So sánh khá tệ...) | Nhập môn Triết học Đông Phương - Thu Giang Nguyễn Duy Cần (Quyển này đi sâu vào Đạo học hơn) |
 
-### Đạo học (Lão Trang)
+Từ đây, bạn thích học gì thì chọn phần học đó.
 
-| Chủ đề | Lý do học | Sách/Giáo trình gợi ý |
-| --- | --- | --- |
-| Đạo đức kinh | Lão Tử | *Lão Tử – Đạo Đức Kinh* – Thu Giang Nguyễn Duy Cần + Lão tử tinh hoa (Cùng tác giả). Bạn có thể đọc các bản dịch của những học giả khác để đối chiếu hoặc tương tự. Ví dụ như: [ĐẠO ĐỨC KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/DaoDucKinh/DaoDucKinh.htm) |
-| Nam Hoa Kinh | Trang Tử | *Nam Hoa Kinh* – Nguyễn Hiến Lê + *Trang Tử tinh hoa* – Giản Chi (Hoặc đọc hai cuốn cùng tên của Thu Giang - Nguyễn Duy Cần). Cũng như bản dịch [NAM HOA KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/NamHoaKinh.htm) | 
+## Triết học Ấn Độ
 
-### Phật học
+| Chủ đề | Giáo trình |
+| --- | --- |
+| Veda & Upanishad | |
+| Phật học | [Phật lục (1940) của Trần Trọng Kim](https://vi.wikisource.org/wiki/Ph%E1%BA%ADt_l%E1%BB%A5c) (hoặc [tải bản sách điện tử được làm bởi tve-4u.org](https://tve-4u.org/threads/phat-luc-tra%CC%80n-tro%CC%A3ng-kim-1000qsv1tvb-0449.33470/)) |
+| Hindu học | |
+| Yoga & Samkhya | |
+| Vedanta | |
 
-| Chủ đề | Lý do học | Sách/Giáo trình gợi ý |
-| --- | --- | --- |
-| Phật học nhập môn | Phật học là **khoa học về khổ đau và nhận thức**. | *Phật học phổ thông* – Thích Thiện Hoa + *Đường xưa mây trắng* – Thích Nhất Hạnh |
-| Thiền căn bản | | *Phép lạ của sự tỉnh thức* – Thích Nhất Hạnh |
+Ghi chú:
 
-### Dịch học
+- Thực ra cá nhân mình nghĩ là có sách nhập môn Phật giáo phù hợp hơn với người mới, nhưng mình thích cuốn này của bác Trần Trọng Kim nên mình chọn nhé. Một gợi ý khác là: [*Phật học phổ thông* – Thích Thiện Hoa](https://thienphatgiao.org/phpt-tth-q1/) và cuốn *Đường xưa mây trắng* – Thích Nhất Hạnh.
+- Ngoại trừ Phật học thì những phần khác bạn có thể tự tìm vì mình cũng chẳng biết cuốn nào hay mà được viết bằng Tiếng Việt để gợi ý cả.
 
-| Chủ đề | Lý do học | Sách/Giáo trình gợi ý |
-| --- | --- | --- |
-| Kinh Dịch nhập môn | | *Kinh Dịch – Đạo của người quân tử* – Nguyễn Hiến Lê (Còn có các bản dịch khác của Phan Bội Châu hay Ngô Tất Tố nhưng mình cảm giác nó khá chuyên sâu, nên đã chọn bản dịch của Nguyễn Hiến Lê) |
+## Triết học Trung Hoa
 
-## Trung cấp
+| Chủ đề | Giáo trình |
+| --- | --- |
+| Nho học (Khổng học) | [Nho giáo - Trần Trọng Kim](https://tve-4u.org/threads/nho-giao-quyen-thuong-quyen-ha-tran-trong-kim.29186/) (Nhẹ nhàng hơn thì đọc Luận Ngữ, chọn bản của Nguyễn Hiến Lê nhé) |
+| Đạo học (Lão – Trang) | *Lão Tử – Đạo Đức Kinh* – Thu Giang Nguyễn Duy Cần + Lão tử tinh hoa (Cùng tác giả). Bạn có thể đọc các bản dịch của những học giả khác để đối chiếu hoặc tương tự. Ví dụ như: [ĐẠO ĐỨC KINH - Nhân Tử Nguyễn Văn Thọ](https://nhantu.net/TonGiao/DaoDucKinh/DaoDucKinh.htm) và đọc cả Nam Hoa Kinh |
+| Kinh Dịch | *Kinh Dịch – Đạo của người quân tử* – Nguyễn Hiến Lê (Còn có các bản dịch khác của Phan Bội Châu hay Ngô Tất Tố nhưng mình cảm giác nó khá chuyên sâu, nên đã chọn bản dịch của Nguyễn Hiến Lê đọc sẽ dễ thở hơn) |
 
-Các môn được đánh số II là học nâng cao hơn, mới dừng lại ở ý tưởng và chưa hoàn chỉnh.
+## Phật học (liên Á)
 
-| Chủ đề | Lý do học | Sách/Giáo trình gợi ý |
-| --- | --- | --- |
-| Đạo học II | | |
-| Phật học đại thừa | Tánh Không (Śūnyatā) + Trung Quán (Nāgārjuna) + Duy Thức (A-lại-da) | [*Duy Thức học* – Thích Thiện Hoa](https://thuvienhoasen.org/p24a7318/muc-luc) |
-| Dịch học II | | Dịch kinh Tường Giải - Nguyễn Duy Cần |
+| Chủ đề | Giáo trình |
+| --- | --- |
+| Nguyên thủy (Theravāda) | |
+| Đại thừa | [*Duy Thức học* – Thích Thiện Hoa](https://thuvienhoasen.org/p24a7318/muc-luc) |
+| Thiền tông | |
+
+## Triết học Nhật Bản
+
+| Chủ đề | Giáo trình |
+| --- | --- |
+| Thiền (Zen) | |
+| Thần đạo (Shinto) | |
+| Võ sĩ đạo (Bushidō) | |
+
+## Các chủ đề xuyên suốt
+
+| Chủ đề | Giáo trình |
+| --- | --- |
+| Bản thể luận (thực tại là gì) | |
+| Nhận thức luận (biết bằng cách nào) | |
+| Nhân sinh quan (sống để làm gì) | |
+| Thiền định & thực hành tâm thức | *Phép lạ của sự tỉnh thức* – Thích Nhất Hạnh |
 
 ## Một phần về Triết học Phương Tây
 
-*Một mà hai, hai mà một.*
-
-Nói chung, mình vẫn nghĩ mọi người nên học thêm đôi chút về Triết học phương Tây (Không phải là mấy cuốn self-help đâu nhé). Một định hướng mà bạn có thể học là Chủ nghĩa khắc kỷ (Stocism). Bạn có thể đọc hướng dẫn trên `r/Stoicism` để bắt đầu: [Guide](https://old.reddit.com/r/Stoicism/wiki/guide)
+Nói chung, mình vẫn nghĩ mọi người nên học thêm đôi chút về Triết học phương Tây (Không phải là mấy cuốn self-help đâu nhé). Một định hướng mà bạn có thể học là Chủ nghĩa khắc kỷ (Stocism). Bạn có thể đọc hướng dẫn trên `r/Stoicism` để bắt đầu: [Guide](https://old.reddit.com/r/Stoicism/wiki/guide).
